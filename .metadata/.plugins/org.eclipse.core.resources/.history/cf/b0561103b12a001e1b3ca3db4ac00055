@@ -1,0 +1,20 @@
+package edu.kh.oop.cls.model.vo.Member;
+
+public class Member {
+
+	// 필드
+	
+	private String memberId; // 아이디
+	private String memberPw; // 비밀번호
+	private String memberName; // 이름
+	private String memberAge; // 나이
+	
+	// 기본 생성자
+	
+	// 매개변수 생성자 ( 필드 모두 초기화 )
+	
+	// 매서드 (getter/setter 포함)
+	
+	
+	
+}

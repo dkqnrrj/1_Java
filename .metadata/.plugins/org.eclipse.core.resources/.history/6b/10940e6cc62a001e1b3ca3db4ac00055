@@ -1,0 +1,25 @@
+package edu.kh.oop.practice;
+
+import edu.kh.oop.cls.model.vo.Member.Member;
+
+public class BookService {
+	
+	private Member memberInfo = null; 
+	private Member loginMember = null; 
+	
+	
+	public void Practice() {
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+
+
+}

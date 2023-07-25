@@ -1,0 +1,27 @@
+package edu.kh.oop.practice;
+
+import edu.kh.oop.cls.model.vo.Member.Member;
+
+public class BookService {
+	
+	private Book title = "자바의 정석"; 
+	private Book price = 30000; 
+	private Book discountRate = 0.2; 
+	private Book author = "남궁성"; 
+	
+	
+	public void Practice() {
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+
+
+}
